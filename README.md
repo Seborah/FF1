@@ -1,6 +1,7 @@
 # FF1
 The first ForgFactory keyboard
 
+A fully custom USB-C numpad made with an ATMEGA32U4 and QMK.
 
 ![Alt text](/IMG_3570.jpg)
 
