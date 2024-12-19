@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "button_pcb_footprints")(type "KiCad")(uri "${KIPRJMOD}/schematic/button_pcb_footprints.kicad_sym")(options "")(descr ""))
+)
